@@ -1,17 +1,1 @@
-{
-  "sli.ready": {
-    "module": "SLI",
-    "state": "ready",
-    "kernel": "NC-direct-hit",
-    "respo": "enabled",
-    "hdf": "active",
-    "directV": "supported",
-    "ramdrive": "32GB",
-    "virtualdrive": "height",
-    "nvme": "width",
-    "gpu": "agency",
-    "mode": "stable",
-    "priority": "max"
-  }
-}
 
