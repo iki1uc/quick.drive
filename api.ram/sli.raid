@@ -1,1 +1,15 @@
+{
+  "sli.raid": {
+    "module": "SLI",
+    "type": "NC-direct-hit",
+    "respo": "kernel",
+    "hdf": "enabled",
+    "ramdrive": "32GB",
+    "virtualdrive": "height",
+    "nvme": "width",
+    "gpu": "agency",
+    "mode": "stable",
+    "priority": "max"
+  }
+}
 
