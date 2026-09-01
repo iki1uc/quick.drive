@@ -1,0 +1,11 @@
+{
+  "JOIN_runtime_expand": {
+    "runtime": "expand",
+    "pipeline": "12",
+    "engine": "ultra.kernel",
+    "vector": "NC.vector.next",
+    "check": "NC.pruefung.fix",
+    "sync": "tmp.sync",
+    "mode": "runtime"
+  }
+}
